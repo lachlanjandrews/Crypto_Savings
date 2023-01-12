@@ -69,4 +69,4 @@ Lachlan Andrews
 
 Email: swerdna14@gmail.com
 
-LinkedIn: lachlanjandrews
+LinkedIn: [lachlanjandrews](https://www.linkedin.com/in/lachlanjandrews/)
