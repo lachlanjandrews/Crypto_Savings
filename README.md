@@ -1,4 +1,4 @@
-# Crypto_Savings
+# Joint Ether Savings Account
 Module 20 Challenge
 
 In this challenge, we were asked to create a joint savings account for two accounts. We then had to deposit ETHER into the contract and then withdraw it back out to the respective wallets.
