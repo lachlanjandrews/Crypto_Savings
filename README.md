@@ -8,7 +8,8 @@ In this challenge, we were asked to create a joint savings account for two accou
 ## Technologies
 
 The credit risk resampling analysis leverages Python 3.8+ and utilizes the following project libraries and dependencies:
-*[Remix](remix.ethereum.org) - A free and powerful online application that can run Solidity files.
+
+[Remix](remix.ethereum.org) - A free and powerful online application that can run Solidity files.
 
 
 ---
@@ -46,11 +47,11 @@ The third deposit was 5 ether.
 
 We were then asked to make some withdrawals, one into each of the 2 selected accounts. The first withdrawal was 5 ether into accountOne.
 
-![Withdrawal1](/Screenshots/withdrawal1.PNG)
+![Withdrawal1](/Screenshots/withdraw1.PNG)
 
 The second withdrawal was 10 ether into accountTwo.
 
-![Withdrawal2](/Screenshots/withdrawal2.PNG)
+![Withdrawal2](/Screenshots/withdraw2.PNG)
 
 ---
 
