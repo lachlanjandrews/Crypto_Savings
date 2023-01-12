@@ -55,6 +55,12 @@ The second withdrawal was 10 ether into accountTwo.
 
 ---
 
+## Disclaimer
+
+This project used test net accounts and cryptocurrency for practise purposes.
+
+---
+
 ## Contributors
 
 This project was created as part of the module 18 challenge in the Monash University Fintech Bootcamp 2022 Program by:
